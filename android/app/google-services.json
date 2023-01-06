@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189545661289",
+    "project_id": "iochat-67ecd",
+    "storage_bucket": "iochat-67ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189545661289:android:3aa73452cd579b207ef3f8",
+        "android_client_info": {
+          "package_name": "com.example.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189545661289-v6uqv3671hs51ptmpb1mjssn5cm8kkpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4JNi-JSPYH9hsQwC34L9-duULRvGvVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189545661289-v6uqv3671hs51ptmpb1mjssn5cm8kkpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
